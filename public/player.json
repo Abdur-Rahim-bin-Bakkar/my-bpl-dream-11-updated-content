@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "category": "All-Rounder",
+    "style": "Left-hand batsman / Left-arm orthodox bowler",
+    "price": 750000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "category": "Batsman",
+    "style": "Left-hand batsman",
+    "price": 700000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 680000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Off-spin",
+    "price": 650000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 620000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "category": "Bowler",
+    "style": "Left-arm fast bowler",
+    "price": 600000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Virat Kohli",
+    "country": "India",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 880000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "category": "Bowler",
+    "style": "Right-arm fast bowler",
+    "price": 820000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Right-arm fast",
+    "price": 850000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 870000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "category": "Bowler",
+    "style": "Left-arm fast bowler",
+    "price": 800000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 780000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ben Stokes",
+    "country": "England",
+    "category": "All-Rounder",
+    "style": "Left-hand batsman / Right-arm fast",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Jos Buttler",
+    "country": "England",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 850000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Joe Root",
+    "country": "England",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 830000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 860000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "category": "Bowler",
+    "style": "Left-arm fast bowler",
+    "price": 800000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Off-spin",
+    "price": 870000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 20,
+    "name": "David Warner",
+    "country": "Australia",
+    "category": "Batsman",
+    "style": "Left-hand batsman",
+    "price": 840000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "category": "Bowler",
+    "style": "Left-arm fast bowler",
+    "price": 820000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Leg-spin",
+    "price": 880000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "category": "Batsman",
+    "style": "Left-hand batsman",
+    "price": 830000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "category": "Bowler",
+    "style": "Right-arm fast bowler",
+    "price": 810000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 790000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Right-arm fast",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Nicholas Pooran",
+    "country": "West Indies",
+    "category": "Batsman",
+    "style": "Left-hand batsman",
+    "price": 820000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Leg-spin",
+    "price": 840000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Angelo Mathews",
+    "country": "Sri Lanka",
+    "category": "All-Rounder",
+    "style": "Right-hand batsman / Medium pace",
+    "price": 780000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Paul Stirling",
+    "country": "Ireland",
+    "category": "Batsman",
+    "style": "Right-hand batsman",
+    "price": 700000,
+    "image": "https://i.ibb.co.com/JwNm394z/sakib.jpg"
+  }
+]

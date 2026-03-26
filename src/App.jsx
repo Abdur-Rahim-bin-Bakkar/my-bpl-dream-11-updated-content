@@ -1,8 +1,9 @@
 import './App.css'
+import Navbar from './components/Navbar/Navbar'
 function App() {
   return (
    <>
-    <button className='btn'>clso</button>
+    <Navbar></Navbar>
    </>
   )
 }
