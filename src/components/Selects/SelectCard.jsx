@@ -17,7 +17,7 @@ const SelectCard = ({ player, selectPlayer, setSelectPlayer,coin, setCoin }) => 
             <FaDeleteLeft onClick={()=>{
                 let newSelect = selectPlayer.filter(pl=> pl.id !== player.id)
                 setSelectPlayer(newSelect)
-                toast.warning("Delete a Player")
+                toast.warning(`Delete a Player ${player.name}`)
                 setCoin(coin+ player.price)
             }}></FaDeleteLeft>
         </div>
