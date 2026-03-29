@@ -7,7 +7,7 @@ const PlayerCard = ({ player, coin, setCoin, setSelectPlayer, selectPlayer }) =>
     const [select, setSelect] = useState(false)
     return (
         <div className='card shadow-md m-4 p-5 border'>
-            <img src={player.image} alt="" />
+            <img src={player.image} alt="" className='h-70 object-center' />
             <div className="card-body">
                 <h1 className='flex gap-3 items-center text-lg font-bold'><FaUser></FaUser>{player.name}</h1>
                 <div className="flex justify-between">
